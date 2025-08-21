@@ -1,16 +1,19 @@
 ## Hi there 👋
 
 <!--
-**Patylp21/Patylp21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Patylp21/Patylp21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-Here are some ideas to get you started:
+- 👩‍🎓 Actualmente Graduada como Data Analyst por un Bootcamp en TripleTen LATAM
+- 👩‍🎓Licenciada en Informática Administrativa por Profesión en UAEM
+- 🏭 Soy profesional con trayectoria en análisis de datos, operaciones, atención al cliente y emprendimiento, con experiencia en instituciones de prestigio y proyectos propios. Me especializo en transformar información y procesos complejos en resultados tangibles, combinando habilidades analíticas, gestión operativa y liderazgo.
+- 🙂 Apasionada por analizar datos, optimizar procesos y liderar proyectos, con experiencia en INEGI, Scotiabank, Televisa Radio y emprendimientos propios (Regalarte y Coffee MajoVa). Combino habilidades analíticas y operativas con creatividad y liderazgo, transformando información y operaciones complejas en resultados estratégicos y sostenibles, siempre buscando aprender, innovar y generar impacto. 
+- 🏡 Mi mayor interes es colaborar con empresas de forma Remota.
+- 🤓Soy Comprometida y apasionada con mi trabajo.
+- 🏃Me considero una persona proacitiva. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Me encuentras también en:
+## Linkedin
+
+https://www.linkedin.com/in/patylp21/
+
+
