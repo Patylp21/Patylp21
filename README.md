@@ -18,6 +18,7 @@
 ** Pandas Avanzado
 ** Matplotlib - Básico
 ** Seaborn - Básico
+** Numpy - Básico
 
 ## Habilidades MS Office
 ** Word - Avanzado
